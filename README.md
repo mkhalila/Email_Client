@@ -41,4 +41,4 @@ N.B. This is just the beginning. This could change drastically as the project ga
 *quotation forthcoming*
 
 ## About Me
-My name is Khalil Ahmed and I am a 2nd year Computer Science student at King's College London. You can find out more about me here: https://www.linkedin.com/in/khalil-ahmed
+My name is Khalil Ahmed and I am a 2nd year Computer Science student at King's College London. You can find out more about me [here.](https://www.linkedin.com/in/khalil-ahmed)
