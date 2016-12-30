@@ -7,8 +7,9 @@ After using Linux for a bit, I missed the old Outlook email client from Windows 
 
 1. *ugly*
 2. Had an over-complicated, un-intuitive UI
-3. Not as easy to use as Outlook or similar email clients
-4. **ugly**
+3. Too much clutter!
+4. Not as easy to use as Outlook or similar email clients
+5. **ugly**
 
 Geary looked fairly simple and easy to use, but well, *just not pretty enough*. Also lacked support for Exchange accounts.
 
