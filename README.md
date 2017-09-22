@@ -1,4 +1,4 @@
-# Email Client (Waiting for inspiration...)
+# A fun time when I had a naive and cringe-y idea for an email client
 
 ## Motivation 
 Recently I moved over to the Linux world from Windows because 2 years into a Computer Science degree at King's College London, I felt that Windows (imo) is a pain to develop on in comparison to a Unix based system. (And no, I do not have the money to buy a Mac). 
